@@ -1,4 +1,4 @@
-# 📝 Responsive-ToDo-List
+# Responsive-ToDo-List
 
 A clean, responsive To-Do List web app built with HTML, CSS, Bootstrap, and JavaScript. Manage your daily tasks with ease – add, edit, delete, and mark them complete. All tasks are stored in your browser using `localStorage` for persistence.
 
@@ -30,4 +30,4 @@ A clean, responsive To-Do List web app built with HTML, CSS, Bootstrap, and Java
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/responsive-todo-list.git
+   git clone https://github.com/codeXsidd/responsive-todo-list.git
