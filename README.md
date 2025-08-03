@@ -30,4 +30,4 @@ A clean, responsive To-Do List web app built with HTML, CSS, Bootstrap, and Java
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/codeXsidd/responsive-todo-list.git
+   git clone https://github.com/codeXsidd/responsive-to-do-list.git
